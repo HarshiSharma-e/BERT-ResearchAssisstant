@@ -2,6 +2,8 @@
 torch==1.4.0+cpu
 -f https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.5.0+cpu
+pytorch-pretrained-bert==0.4.0
+tensorflow>=0.4.1
 transformers==3.0.2
 numpy==1.19.1
 joblib==0.16.0
