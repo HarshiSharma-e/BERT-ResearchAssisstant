@@ -5,7 +5,7 @@ import pickle
 
 import torch
 from transformers import AutoTokenizer, AutoModelForQuestionAnswering
-from pytorch_pretrained_bert import BertTokenizer
+from transformers import BertTokenizer
 
 name = "bert-base-uncased"
 
